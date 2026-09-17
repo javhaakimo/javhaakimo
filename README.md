@@ -33,11 +33,13 @@ I'm currently studying to become an AI Engineer.
 
 ## Goals
 
-- Build practical AI projects
-- Improve Python and software engineering skills
-- Develop AI-powered real-world systems
-- Build a strong GitHub portfolio
+- Become a capable AI Engineer
+- Master Python fundamentals for AI development
+- Build real-world Computer Vision, Automation, and AI Agent systems
+- Develop and deploy practical AI products
+- Turn project ideas into working prototypes
+- Build a strong professional GitHub portfolio
 
 ## Tech Stack
 
-Python | Git | GitHub | VS Code | n8n
+Python | Git | GitHub | VS Code | n8n | Google Colab
