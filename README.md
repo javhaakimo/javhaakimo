@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Javkhaa 👋
 
-<!--
-**javhaakimo/javhaakimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying to become an AI Engineer.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git & GitHub
+- Data Analysis
+- Machine Learning
+- AI Engineering
+- Automation with n8n
+
+## Current Projects
+
+- Parking Management System
+- Expense Tracker
+- AI Camera System
+- Workflow Automation
+
+## Goals
+
+- Build practical AI projects
+- Improve Python and software engineering skills
+- Develop AI-powered real-world systems
+- Build a strong GitHub portfolio
+
+## Tech Stack
+
+Python | Git | GitHub | VS Code | n8n
