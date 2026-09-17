@@ -8,8 +8,13 @@ I'm currently studying to become an AI Engineer.
 - Git & GitHub
 - Data Analysis
 - Machine Learning
-- AI Engineering
+- Deep Learning & Neural Networks
+- Computer Vision
+- Natural Language Processing (NLP)
+- AI Engineering & Deployment
+- FastAPI
 - Automation with n8n
+- AI Systems Thinking
 
 ## Current Projects
 
