@@ -22,15 +22,6 @@ I'm currently studying to become an AI Engineer.
 - Expense Tracker
 - Workflow Automation
 
-## Planned AI Projects
-
-- AI Camera Core Platform
-- Smart Parking & ANPR
-- Retail AI Analytics
-- Executive AI Assistant
-- Personal AI Assistant — Kimo
-- Trading AI Assistant
-
 ## Goals
 
 - Become a capable AI Engineer
